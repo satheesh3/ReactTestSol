@@ -1,0 +1,39 @@
+.cart ul {
+   padding: 10px 10px 10px 10px;
+    display: flex;
+    padding-block-end: 10px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    background-color:navajowhite;
+    list-style: none;
+} 
+
+.cart-item {
+ padding: 10px;
+  list-style: none; 
+}
+
+.cart-item__name {
+ 
+  display: flex;
+}
+button {
+  float: left;
+  
+  
+}
+
+.cart-item__price {
+    display: inherit;
+    line-height: 34px;
+    
+}
+.cart__total {
+  font-weight: bold;
+  font-size: 1.5em;
+  line-height: 1.1em;
+  text-align: right;
+  display: flex;
+}
+
+

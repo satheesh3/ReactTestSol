@@ -1,0 +1,17 @@
+.product {
+    margin: 0;
+    overflow: auto;
+    transition: all .4s ease-in-out;
+    background: #ECEAE0;
+}
+.product:hover {
+    transform: scale(1.1);
+}
+.product__price {
+    display: inline-block;
+    line-height: 34px;
+}
+
+.product__button-wrap {
+    float: right;
+}

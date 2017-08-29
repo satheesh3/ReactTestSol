@@ -20,21 +20,32 @@
   },
   "homepage": "https://github.com/aether7/adessa-frontend-test#readme",
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "consolidate": "^0.14.5",
     "express": "^4.14.0",
     "handlebars": "^4.0.6",
-    "react": "^15.4.2",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.0",
     "react-dom": "^15.4.2",
-    "redux": "^3.6.0"
+    "react-redux": "^5.0.2",
+    "redux": "^3.6.0" 
   },
   "devDependencies": {
-    "babel-core": "^6.22.1",
-    "babel-loader": "^6.2.10",
-    "babel-preset-es2015": "^6.22.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.22.0",
+    "babel-preset-stage-2": "^6.24.1",
     "babel-preset-stage-3": "^6.22.0",
+    "css-loader": "^0.28.5",
+    "file-loader": "^0.11.2",
+    "gh-pages": "^0.12.0",
     "nodemon": "^1.11.0",
-    "webpack": "^2.2.0",
+    "react-scripts": "0.9.0",
+    "style-loader": "^0.18.2",
+    "url-loader": "^0.5.9",
+    "webpack": "^2.7.0",
     "webpack-build-notifier": "^0.1.13"
+    
   }
 }
